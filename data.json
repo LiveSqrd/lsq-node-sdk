@@ -1,0 +1,23 @@
+[
+	{ 
+	"title":"Latte",	
+	"photo":"https://ordercandy.circles.io/images/faces/1370184375586_thumb.jpg", 
+	"body": {
+		"size" : "small",
+		"flavor" :  "Iris",
+	     "milk" : "Whole Milk",
+	     "type" : "paper",
+	     "paid":false,
+	     "done":false
+		},
+	"group": "order"	
+	},
+	{ 
+	"title":"",	 /* name of doc */	
+	"photo":"",  /* link to photo */	
+	"body": {
+		/* extra info*/
+		},
+	"group": "" /* group of data */	
+	}
+]
