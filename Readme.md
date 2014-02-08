@@ -18,6 +18,7 @@ var  LSQ = require('./lib')
 * Read
 * Update
 * Delete
+* Count
 
 Just specify the collection your calling then the data your passing
 
@@ -107,6 +108,7 @@ just {} will return all and with the addition of just
 * skip (int)
 * limit (int)
 * sort  (object)
+* Select (object)
 
 Schemas
 ========================
