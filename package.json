@@ -1,6 +1,6 @@
 {
   "name": "livesqrd-sdk",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Live Sqrd Node sdk",
   "keywords": [
     "sdk",
@@ -14,7 +14,7 @@
   },
   "author": {
     "name": "Antonio 'pelle' Pellegrino",
-    "email": "pelle@livesqrd.com",
+    "email": "pellepelle3@gmail.com",
     "url": "http://livesqrd.com"
   },
   "dependencies": {
