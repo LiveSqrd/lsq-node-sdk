@@ -55,6 +55,14 @@ lsq.delete(collection,query,options,function(err,result){
 })
 ```
 
+### Count
+
+```javascript
+lsq.count(collection,query,options,function(err,result){
+			console.log(err,result)
+})
+```
+
 ---
 
 #### The collection is the data collection name (string) :
